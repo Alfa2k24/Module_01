@@ -1,4 +1,5 @@
-#Practice C Programming with Phitron
+Practice C Programming with Phitron
+------------------------------------
 
 Module 1:
 ----------
